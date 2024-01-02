@@ -8,16 +8,16 @@ Hi there, I'm <a href="https://shano-web.com" target="_blank" rel="noreferrer">S
 </h3>
 
 <h2 align="center">
-I'm a Full-Stack Web Developer 💻!
+Full-Stack Web Developer 💻
 </h2> 
 
-Love to build complex custom services. Web3/SaaS/Automations.
+Love to build complex custom services. Web3/SaaS/Automation.
 
 ### 🤝 Connect with me:
 
 <a href="https://instagram.com/shanomerc"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Shano | Instagram" width="21px"/></a>
 </br>
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+- 💬 If you have any questions/feedback, please do not hesitate to reach out to me!
 
 ## 🔭 I'm currently working on
 
