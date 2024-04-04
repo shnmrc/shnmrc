@@ -21,10 +21,12 @@ Love to build complex custom services. Web3/SaaS/Automation.
 
 ## 🔭 I'm currently working on
 
+- AMM
 - My old projects
 - Zeal App
 - Instagrowth.com
 - Web3 Threads
+- Web3 Eco-systems
 
 ## 🌱 I'm currently learning
 
