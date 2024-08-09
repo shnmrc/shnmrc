@@ -8,7 +8,7 @@ Hi there, I'm <a href="https://shano-web.com" target="_blank" rel="noreferrer">S
 </h3>
 
 <h2 align="center">
-Full-Stack Web Developer 💻
+Full-Stack Web3 Developer 💻
 </h2> 
 
 Love to build complex custom services. Web3/SaaS/Automation.
@@ -18,20 +18,6 @@ Love to build complex custom services. Web3/SaaS/Automation.
 <a href="https://instagram.com/shanomerc"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Shano | Instagram" width="21px"/></a>
 </br>
 - 💬 If you have any questions/feedback, please do not hesitate to reach out to me!
-
-## 🔭 I'm currently working on
-
-- AMM
-- My old projects
-- Zeal App
-- Instagrowth.com
-- Web3 Threads
-- Web3 Eco-systems
-
-## 🌱 I'm currently learning
-
-- Kubernetes
-- Microservices
 
 ## 💼 Technical Skills
 
